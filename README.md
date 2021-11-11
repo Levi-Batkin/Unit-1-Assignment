@@ -4,10 +4,10 @@
 
 - 🔭 &nbsp; I'm currently learning Unity Engine.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Level 3 Games Development Diploma
+- 🎓 &nbsp; Level 3 Games Development Diploma.
 - 💼 &nbsp; Game Developer C# and fullstack web developer, python developer.
-- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Playing Computer Games
+- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
+- ✍️ &nbsp; Playing Computer Games.
 
 <h3>🛠 Tech Stack</h3>
 
