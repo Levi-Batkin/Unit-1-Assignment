@@ -109,7 +109,7 @@ Contributions are what make the open source community such an amazing place to b
 ## 📝 License
 Describe your License for your project. 
 
-Distributed under the GNU License. See `LICENSE` for more information.
+Distributed under the GNU License. See `LICENSE.md` for more information.
 
 
 
