@@ -35,7 +35,7 @@
 Known Issues:
 * ~~Animations flickering between idle and moveleft animation.~~
 </br>   ^ Fixed animations from not displaying correctly when moving left or right.
-
+* Sometimes the Tilemap does not load properly on the executable, you will need to restart the game to see the full effect.
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Unity 2D](https://unity.com/)
