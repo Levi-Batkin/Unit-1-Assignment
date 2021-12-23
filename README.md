@@ -84,25 +84,9 @@ Describe your License for your project.
 
 Distributed under the GNU License. See `LICENSE.md` for more information.
 
-
-
-<!-- CONTACT -->
-## 📫 Contact
-
-Email me! - [520890@chrome.escg.ac.uk](mailto:520890@chrome.escg.ac.uk)
-
 Project Link: [https://github.com/Levi-Batkin/Unit-1-Assignment](https://github.com/Levi-Batkin/Unit-1-Assignment)
 
 <h2> Hey there! I'm Levi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I'm currently learning Unity Engine.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Level 3 Games Development Diploma.
-- 💼 &nbsp; Game Developer C# and fullstack web developer, python developer.
-- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
-- ✍️ &nbsp; Playing Computer Games.
 
 <h3>🛠 Tech Stack</h3>
 
